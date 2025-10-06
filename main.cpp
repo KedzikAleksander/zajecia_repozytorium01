@@ -6,6 +6,7 @@ int policz (int a, int b) {
 }
 int main() {
     std::cout << "w drugim branchu 2*3" << Policz(2,3) << std::endl;
+    std::cout << "Hello world!" << std::endl;
     return 0;
 }
     // TIP See CLion help at <a href="https://www.jetbrains.com/help/clion/">jetbrains.com/help/clion/</a>. Also, you can try interactive lessons for CLion by selecting 'Help | Learn IDE Features' from the main menu.
